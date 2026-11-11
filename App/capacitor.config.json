@@ -1,0 +1,13 @@
+{
+	"appId": "com.fieldcomms.troubleshooter",
+	"appName": "Field Comms",
+	"webDir": "www",
+	"ios": {
+		"contentInset": "never",
+		"backgroundColor": "#0f141a",
+		"scheme": "App"
+	},
+	"packageClassList": [
+		"AppPlugin"
+	]
+}
